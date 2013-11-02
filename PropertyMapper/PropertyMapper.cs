@@ -97,7 +97,7 @@ namespace PropertyMapper
 
         public ENTITY ToEntity(DTO dtoPOCO)
         {
-            return toEntityExpression().Compile().Invoke(dtoPOCO);
+            return toEntityExpression().Invoke(dtoPOCO);
         }
     }
 
