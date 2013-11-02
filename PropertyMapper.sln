@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertyMapper", "PropertyMapper\PropertyMapper.csproj", "{2861C586-C9B7-4981-84CC-57E9B3E1EE6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		Test|Any CPU = Test|Any CPU
+		Test|Mixed Platforms = Test|Mixed Platforms
+		Test|x64 = Test|x64
+		Test|x86 = Test|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2861C586-C9B7-4981-84CC-57E9B3E1EE6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2861C586-C9B7-4981-84CC-57E9B3E1EE6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2861C586-C9B7-4981-84CC-57E9B3E1EE6A}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{2861C586-C9B7-4981-84CC-57E9B3E1EE6A}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{2861C586-C9B7-4981-84CC-57E9B3E1EE6A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{2861C586-C9B7-4981-84CC-57E9B3E1EE6A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2861C586-C9B7-4981-84CC-57E9B3E1EE6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2861C586-C9B7-4981-84CC-57E9B3E1EE6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2861C586-C9B7-4981-84CC-57E9B3E1EE6A}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{2861C586-C9B7-4981-84CC-57E9B3E1EE6A}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{2861C586-C9B7-4981-84CC-57E9B3E1EE6A}.Release|x64.ActiveCfg = Release|Any CPU
+		{2861C586-C9B7-4981-84CC-57E9B3E1EE6A}.Release|x86.ActiveCfg = Release|Any CPU
+		{2861C586-C9B7-4981-84CC-57E9B3E1EE6A}.Test|Any CPU.ActiveCfg = Test|Any CPU
+		{2861C586-C9B7-4981-84CC-57E9B3E1EE6A}.Test|Any CPU.Build.0 = Test|Any CPU
+		{2861C586-C9B7-4981-84CC-57E9B3E1EE6A}.Test|Mixed Platforms.ActiveCfg = Test|Any CPU
+		{2861C586-C9B7-4981-84CC-57E9B3E1EE6A}.Test|Mixed Platforms.Build.0 = Test|Any CPU
+		{2861C586-C9B7-4981-84CC-57E9B3E1EE6A}.Test|x64.ActiveCfg = Test|Any CPU
+		{2861C586-C9B7-4981-84CC-57E9B3E1EE6A}.Test|x86.ActiveCfg = Test|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
